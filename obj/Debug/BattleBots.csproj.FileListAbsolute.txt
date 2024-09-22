@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Programming\MyProgs\C#\VS\BattleBots\bin\Debug\BattleBots.exe.config
+C:\Users\User\Desktop\Programming\MyProgs\C#\VS\BattleBots\bin\Debug\BattleBots.exe
+C:\Users\User\Desktop\Programming\MyProgs\C#\VS\BattleBots\bin\Debug\BattleBots.pdb
+C:\Users\User\Desktop\Programming\MyProgs\C#\VS\BattleBots\obj\Debug\BattleBots.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\MyProgs\C#\VS\BattleBots\obj\Debug\BattleBots.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\MyProgs\C#\VS\BattleBots\obj\Debug\BattleBots.exe
+C:\Users\User\Desktop\Programming\MyProgs\C#\VS\BattleBots\obj\Debug\BattleBots.pdb

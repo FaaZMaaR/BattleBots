@@ -17,7 +17,7 @@ class GameScene
     private float[] edge_min = new float[] { 800, 800 };
     private float[] edge_max = new float[] { 20 * 160 + 800, 20 * 160 + 800 };
     private double[] mouse = new double[] { 0, 0 };
-    private string imgpath = "../../Images/";
+    private string imgpath = "Images/";
     private bool freecam = false;
     private string console = "";
     private string instruction = "";
